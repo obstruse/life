@@ -1,6 +1,6 @@
 ![](images/title.png)
 # Life
-Conway's Game of Life, for the Raspberry Pi Pico, with Composite Video output using an R2R resistor DAC.  Resolution of the 'universe' is 512x384; the speed is approximately 30 generations/second.
+Conway's Game of Life, for the Raspberry Pi Pico, with Composite Video output using an R2R resistor DAC.  Resolution of the 'universe' is 512x384; the speed is approximately 30 generations/second. [Multum in Parvo](https://www.conwaylife.com/wiki/Multum_in_parvo)
 
 A modified version of [pico-composite8](https://github.com/obstruse/pico-composite8).
 
